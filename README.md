@@ -1,4 +1,5 @@
 # myfhunt
+[![Build Status](https://travis-ci.com/misha-marinenko-official/myFhunt.svg?branch=master)](https://travis-ci.com/misha-marinenko-official/myFhunt)
 
 > a freelancehunt.com client.
 
