@@ -1,6 +1,6 @@
 <template>
   <div class="auth">
-
+<div style="display: none;" class="d">a</div>
   Авторизация:  (<a href="https://freelancehunt.com/my/api">Где их найти?</a>) <br>
     <md-field>
       <label>Идентификатор</label>
